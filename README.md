@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Robots!
+
+Human here. I like technology and other cool things. 
+I am glad to see our future cooporation.
